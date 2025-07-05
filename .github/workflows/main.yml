@@ -3,8 +3,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  build: 
-  name: Start Building...
+build: 
+name: Start Building...
   runs_on: windows-latest 
 
   steps:
